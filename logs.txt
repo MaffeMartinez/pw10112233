@@ -1,0 +1,17 @@
+commit 6107dccccdaacc00d2b92c772437a9f174007cae
+Author: CCDM02 <CCDM02@CCDM02.local>
+Date:   Thu Sep 7 10:41:03 2023 -0700
+
+    Encabezado y titulo
+
+commit 11015e683e9172a4903208a9fd0325d6459412c6
+Author: CCDM02 <CCDM02@CCDM02.local>
+Date:   Thu Sep 7 10:37:17 2023 -0700
+
+    Archivos iniciales de la clase
+
+commit 6b4292a9aad8090deb190a4d49c8d998e8a34ceb
+Author: CCDM02 <CCDM02@CCDM02.local>
+Date:   Thu Sep 7 10:32:38 2023 -0700
+
+    Archivos iniciales de la clase
